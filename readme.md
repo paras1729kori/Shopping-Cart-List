@@ -22,5 +22,5 @@ react-native run-android
 
 <br/>
 
-## Use this as a boilerplate and create something awesome
-## _Happy Coding ✌_
+### Use this as a boilerplate and create something awesome
+### _Happy Coding ✌_
