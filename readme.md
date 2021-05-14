@@ -20,6 +20,10 @@ Recommended:
 react-native run-android
 ```
 
+## Demo
+
+https://user-images.githubusercontent.com/61196454/118247088-65d35000-b4c0-11eb-9312-130256d78e1a.mp4
+
 <br/>
 
 ### Use this as a boilerplate and create something awesome
